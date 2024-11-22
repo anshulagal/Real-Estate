@@ -3,9 +3,9 @@ import React from 'react';
 export default function About() {
   return (
     <div className='py-20 px-4 max-w-6xl mx-auto'>
-      <h1 className='text-3xl font-bold mb-4 text-slate-800'>About <span className='text-blue-700 font-bold'>Sparsh Realtors</span></h1>
+      <h1 className='text-3xl font-bold mb-4 text-slate-800'>About <span className='text-blue-700 font-bold'>Agal Realtors</span></h1>
       <p className='mb-4 text-slate-700'>
-        Sparsh Realtors is a leading real estate agency that specializes in helping clients buy, sell, and rent properties in the most desirable neighborhoods. Our team of experienced agents is dedicated to providing exceptional service and making the buying and selling process as smooth as possible.
+        Agal Realtors is a leading real estate agency that specializes in helping clients buy, sell, and rent properties in the most desirable neighborhoods. Our team of experienced agents is dedicated to providing exceptional service and making the buying and selling process as smooth as possible.
       </p>
       <p className='mb-4 text-slate-700'>
         Our mission is to help our clients achieve their real estate goals by providing expert advice, personalized service, and a deep understanding of the local market. Whether you are looking to buy, sell, or rent a property, we are here to help you every step of the way.
@@ -21,8 +21,8 @@ export default function About() {
           </h1>
           <p className='mb-4 text-slate-700'>
             Hi, my name is{' '}
-            <a href="https://www.linkedin.com/in/sparsh-dusad-13b0b3170" target='_blank' className='text-blue-800'>
-              <b>Sparsh Dusad</b>
+            <a href="www.linkedin.com/in/anshul-agal-789712236" target='_blank' className='text-blue-800'>
+              <b>Anshul Agal</b>
             </a>{' '}
             and I am from Jaipur, India. I'm an{' '}
             <b>aspiring Software developer and Full Stack Engineer</b> and a pre-final year college student pursuing{' '}

@@ -30,7 +30,7 @@ export default function Header() {
           <div className='flex items-center'>
             <img src={Logo} alt="Logo" className="w-18 h-12 mr-2 rounded-lg" />
             <h1 className='font-bold text-sm sm:text-xl flex flex-wrap'>
-              <span className='text-slate-500'>Sparsh</span>
+              <span className='text-slate-500'>Agal</span>
               <span className='text-slate-700'>Realtors</span>
             </h1>
           </div>

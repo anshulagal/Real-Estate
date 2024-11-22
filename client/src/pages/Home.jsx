@@ -60,7 +60,7 @@ export default function Home() {
     <Typewriter
       options={{
         strings: [
-          "Sparsh Realtors",
+          "Agal Realtors",
           "Dreamers",
           "Doers",
         ],
