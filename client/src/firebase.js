@@ -2,15 +2,15 @@
 import { initializeApp } from "firebase/app";
 // TODO: Add SDKs for Firebase products that you want to use
 // https://firebase.google.com/docs/web/setup#available-libraries
-//"AIzaSyCOreHL4SR3cMRRSoxvjbg70QAYpnxU-X0"
+
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
-  authDomain: "mern-estate-ffaea.firebaseapp.com",
-  projectId: "mern-estate-ffaea",
-  storageBucket: "mern-estate-ffaea.appspot.com",
-  messagingSenderId: "552276026695",
-  appId: "1:552276026695:web:2334b5b01d5db14f105862"
+  apiKey: import.meta.env.FIREBASE_API_KEY,
+  authDomain: "real-estate-ba724.firebaseapp.com",
+  projectId: "real-estate-ba724",
+  storageBucket: "real-estate-ba724.firebasestorage.app",
+  messagingSenderId: "911722883572",
+  appId: "1:911722883572:web:4877a2b164367249fef1a1"
 };
 
 // Initialize Firebase
